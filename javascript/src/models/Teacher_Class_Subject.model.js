@@ -21,7 +21,7 @@ module.exports = (sequelize) => {
     indexes: [
       {
         unique: true,
-        fields: ['teacherEmail', 'mappingId']
+        fields: ['mappingId']
       }
     ],
     timestamps: false,

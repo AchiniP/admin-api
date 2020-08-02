@@ -32,7 +32,8 @@ export const processTeacherData = async () => {
         { 
           subjectCode: data.subjectcode, 
           subjectname: data.subjectname, 
-          numberOfClasses: getClassCount(teacherArr, data.subjectcode).length
+          numberOfClasses:  (_.isNil(data.subjectcode)) ? 0:
+            getClassCount(teacherArr, data.subjectcode).length
         }))
       .uniqWith(_.isEqual).value();
     result[teacherName] = subjects;
