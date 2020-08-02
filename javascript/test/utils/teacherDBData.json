@@ -1,0 +1,34 @@
+[
+    {
+        "teacheremail": "teacher1@gmail.com",
+        "teachername": "Teacher 1",
+        "mappingid": 1,
+        "classcode": "P1-1",
+        "subjectname": "maths",
+        "subjectcode": "MATHS"
+    },
+    {
+        "teacheremail": "teacher2@gmail.com",
+        "teachername": "Teacher 2",
+        "mappingid": 2,
+        "classcode": "P2-1",
+        "subjectname": "physics",
+        "subjectcode": "PHYSICS"
+    },
+    {
+        "teacheremail": "teacher3@gmail.com",
+        "teachername": "Teacher 3",
+        "mappingid": 5,
+        "classcode": "P3-1",
+        "subjectname": "Biology",
+        "subjectcode": "BIO"
+    },
+    {
+        "teacheremail": "teacher4@gmail.com",
+        "teachername": "Teacher 4",
+        "mappingid": 3,
+        "classcode": "P2-1",
+        "subjectname": "chem",
+        "subjectcode": "CHEMISTRY"
+    }
+]

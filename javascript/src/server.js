@@ -9,6 +9,7 @@ const { PORT = 3000 } = process.env;
 
 const startApplication = async (retryCount) => {
   try {
+    await sequelize.sync({ logging: console.log});
     await sequelize.authenticate();
     App.listen(PORT, () => {
       LOG.info(`Application started at http://localhost:${PORT}`);

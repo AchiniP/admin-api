@@ -1,0 +1,79 @@
+[
+    {
+      "teacherEmail": "teacher1@gmail.com",
+      "teacherName": "Teacher 1",
+      "studentEmail": "commonstudent1@gmail.com",
+      "studentName": "Common Student 1",
+      "classCode": "P1-1",
+      "classname": "P1 Integrity",
+      "subjectCode": "MATHS",
+      "subjectName": "Mathematics",
+      "toDelete": "0"
+    },
+    {
+      "teacherEmail": "teacher1@gmail.com",
+      "teacherName": "Teacher 1",
+      "studentEmail": "commonstudent2@gmail.com",
+      "studentName": "Common Student 2",
+      "classCode": "P1-1",
+      "classname": "P1 Integrity",
+      "subjectCode": "MATHS",
+      "subjectName": "Mathematics",
+      "toDelete": "0"
+    },
+    {
+      "teacherEmail": "teacher1@gmail.com",
+      "teacherName": "Teacher A",
+      "studentEmail": "commonstudent3@gmail.com",
+      "studentName": "Common Student 3",
+      "classCode": "P1-1",
+      "classname": "P1 Integrity",
+      "subjectCode": "MATHS",
+      "subjectName": "Mathematics",
+      "toDelete": "1"
+    },
+    {
+      "teacherEmail": "teacher2@gmail.com",
+      "teacherName": "Teacher 2",
+      "studentEmail": "commonstudent4@gmail.com",
+      "studentName": "Common Student 1",
+      "classCode": "P2-1",
+      "classname": "P2 Integrity",
+      "subjectCode": "PHYSICS",
+      "subjectName": "physics",
+      "toDelete": "0"
+    },
+    {
+      "teacherEmail": "teacher1@gmail.com",
+      "teacherName": "Teacher c2",
+      "studentEmail": "commonstudent4@gmail.com",
+      "studentName": "Common Student A",
+      "classCode": "P2-1",
+      "classname": "P2 class",
+      "subjectCode": "MATHS",
+      "subjectName": "maths",
+      "toDelete": "0"
+    },
+    {
+        "teacherEmail": "teacher3@gmail.com",
+        "teacherName": "Teacher c3",
+        "studentEmail": "commonstudent4@gmail.com",
+        "studentName": "Common Student A",
+        "classCode": "P2-1",
+        "classname": "P2 class",
+        "subjectCode": "MATHS",
+        "subjectName": "maths",
+        "toDelete": "0"
+    },
+    {
+        "teacherEmail": "teacher3@gmail.com",
+        "teacherName": "Teacher c3",
+        "studentEmail": "commonstudent4@gmail.com",
+        "studentName": "Common Student A",
+        "classCode": "P2-1",
+        "classname": "P2 class",
+        "subjectCode": "BIO",
+        "subjectName": "Biology",
+        "toDelete": "0"
+    }
+  ]

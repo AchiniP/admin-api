@@ -3,7 +3,7 @@ import Logger from './logger';
 
 const LOG = new Logger('database.js');
 const {
-  DB_HOST = 'localhost',
+  DB_HOST = '192.168.99.100',
   DB_PORT = '3306',
   DB_SCHEMA = 'school-administration-system',
   DB_USER = 'root',
@@ -30,6 +30,22 @@ const sequelize = new Sequelize(DB_SCHEMA, DB_USER, DB_PW, {
     LOG[DB_LOG_LEVEL](msg);
   }
 });
+
+
+const modelDefiners = [
+  require('../models/ClassData.model'),
+  require('../models/Subject.model'),
+  require('../models/Teacher.model'),
+  require('../models/Student.model'),
+  require('../models/Class_Subject.model'),
+  require('../models/Teacher_Class_Subject.model'),
+  require('../models/Student_Class_Subject.model'),
+];
+
+// We define all models according to their files.
+for (const modelDefiner of modelDefiners) {
+  modelDefiner(sequelize);
+}
 
 export default sequelize;
 
