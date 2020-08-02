@@ -1,11 +1,11 @@
 teacherEmail,teacherName,studentEmail,studentName,classCode,classname,subjectCode,subjectName,toDelete
 teacher1@gmail.com,Teacher 1,commonstudent1@gmail.com,Common Student 1,P1-1,P1 Integrity,MATHS,Mathematics,0
 teacher1@gmail.com,Teacher 1,commonstudent2@gmail.com,Common Student 2,P1-1,P1 Integrity,MATHS,Mathematics,0
-teacher1@gmail.com,Teacher A,commonstudent3@gmail.com,Common Student 3,P1-1,P1 Integrity,MATHS,Mathematics,1
-teacher2@gmail.com,Teacher 2,commonstudent4@gmail.com,Common Student 1,P2-1,P2 Integrity,PHYSICS,physics,0
-teacher4@gmail.com,Teacher A,commonstudent3@gmail.com,S3,P2-1,P2 Integrity,CHEMISTRY,chem,0
-teacher1@gmail.com,Teacher A,commonstudent4@gmail.com,Common Student A,P2-1,P2 class,MATHS,maths,0
-teacher3@gmail.com,Teacher 3,commonstudent5@gmail.com,Common Student A,P3-1,P3 Integrity,BIO,Biology,0
-teacher2@gmail.com,Teacher Ph,commonstudent6@gmail.com,S6,P3-1,P3 Integrity,PHYSICS,physics,0
-teacher1@gmail.com,Teacher 1,commonstudent6@gmail.com,S6,P3-1,P3 Integrity,ENGLISH,eng,0
-teacher7@gmail.com,teacher7,commonstudent6@gmail.com,std 6,P3-2,P3 special,ZOOLOGY,zoology,1
+teacher1@gmail.com,Teacher 1,commonstudent3@gmail.com,Common Student 3,P1-1,P1 Integrity,MATHS,Mathematics,1
+teacher1@gmail.com,Teacher A,commonstudent4@gmail.com,Common Student 4,P2-1,P2 Integrity,MATHS,Mathematics,0
+teacher1@gmail.com,Teacher A,commonstudent4@gmail.com,Common Student 4-1,P2-1,P2 class,MATHS,Mathematics,0
+teacherDel@gmail.com,Teacher Del,commonstudent4@gmail.com,Common Student 4-1,P2-1,P2 Integrity,MATHS,Mathematics,1
+teacher2@gmail.com,Teacher 2,commonstudent1@gmail.com,Common Student 1,P2-1,P2 Integrity,PHYSICS,physics,0
+teacher2@gmail.com,Teacher 2,commonstudent4@gmail.com,Common Student 4-1,P2-1,P2 Integrity,PHYSICS,Physics Sub,0
+teacher1@gmail.com,Teacher A,commonstudent4@gmail.com,Common Student 4,P2-1,P2 class,COMBINED,Com Maths,0
+teacher2@gmail.com,Teacher B,commonstudent5@gmail.com,Common Student 5,P3-1,P3 Class,CHEMISTRY,Chemistry,0
