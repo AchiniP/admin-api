@@ -2,7 +2,7 @@
 
 ### Database Design
 
-![alt text](ERP.PNG "ER Diagram")
+![alt text](ERP.png "ER Diagram")
 
 This package contains the answers  for the interview assignment.<br>
 ### Additional Libraries added
